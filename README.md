@@ -5,7 +5,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-compatible-teal.svg)
 
 <p align="center">
-  <img src="docs/images/hand_mimic_demo.jpg" alt="Hand Mimic System Demo" width="600">
+  <img src="docs/images/demo1.png" alt="Hand Mimic System Demo" width="600">
   <br>
   <em>A system that transfers your hand movements to a robotic hand in real-time</em>
 </p>
